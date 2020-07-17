@@ -1,5 +1,5 @@
 cd /app
-nginx
+#nginx
 cargo run
 
 # Create certificate from keychain->certificate assistant->create a certificate

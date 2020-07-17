@@ -1,0 +1,5 @@
+Create docker-compose.yml
+Install pyyaml - pip install pyyaml
+python build-tag-push-ecs.py
+export COMPOSE_FILE=docker-compose.yml-1593968398
+fixup-yaml.sh

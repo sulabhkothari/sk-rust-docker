@@ -1,0 +1,5 @@
+[global.oauth.google]
+provider = "Google"
+client_id = "179150617059-e8vdvafcv4pdtgd06npguffqf7uuc183.apps.googleusercontent.com"
+client_secret = "_wePZ9WRqRMyCWhg3EahVLxw"
+redirect_uri = "http://localhost:8000/auth/google"
